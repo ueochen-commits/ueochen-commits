@@ -1,8 +1,8 @@
-![wave header](https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=220&section=header&text=Hey,%20I'm%20Ueo%20Chen!&fontAlignY=40&fontSize=42&desc=Creative%20Frontend%20%2B%20Immersive%20Commerce%20Engineer&descAlign=50&descAlignY=65)
+![wave header](https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=220&section=header&text=Hello,%20I'm%20Zhixun%20(%E8%B7%AF%E4%BA%BA)!&fontAlignY=40&fontSize=38&desc=INTJ%20Trader%20%7C%20AI-driven%20SaaS%20Builder&descAlign=50&descAlignY=65)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3200&pause=600&color=7DD3FC&center=true&vCenter=true&width=600&lines=打造能被用户记住的体验;Web+XR+AI+数据可视化" alt="typing intro" />
-  <p>以用户体验为核心，结合视觉、动画和数据，打造有温度的交互作品。</p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3200&pause=600&color=7DD3FC&center=true&vCenter=true&width=600&lines=INTJ+Trader+%2B+AI+Maker;Build+in+Public;7+SaaS+in+365+days" alt="typing intro" />
+  <p>专业交易逻辑 + 像素级产品审美，利用 AI 自动化打造高密度的一人公司。</p>
   <p>
     <a href="https://github.com/ueochen-commits?tab=followers"><img src="https://img.shields.io/github/followers/ueochen-commits?label=Followers&logo=github&style=flat-square" alt="followers" /></a>
     <img src="https://komarev.com/ghpvc/?username=ueochen-commits&style=flat-square&color=blueviolet" alt="profile views" />
@@ -10,11 +10,20 @@
   </p>
 </div>
 
-## ☕ About Me / 关于我
-- 🧑‍🎨 融合前端工程、品牌视觉和 3D/AR 体验，擅长把 idea 变成可交付的产品 demo。
-- 🚀 正在打造面向零售的眼镜试戴 / 虚拟试衣组件库，同时输出技术博客与工具化脚本。
-- 📚 近期在学习 `WebGPU`、`AI-driven UX` 与 `Edge Functions`，把智能体接入交互场景。
-- 🤝 欢迎就远程协作、演示项目或 talk 邀请联系：在 Discussions 开个 Issue 就能聊。
+## ☕ Professional Snapshot / 关于我
+- 🎯 十年伦敦求学 + 三年体制磨炼的复合背景，现全职经营交易、内容与 SaaS 的“一人公司”。
+- 📈 以 Nasdaq 纳指期货与 ICT 策略为底层框架，把交易纪律迁移到产品节奏中：每天只做一次高质量决策。
+- 🧱 正在一年内交付 7 款数字资产（TradeGrail、Steal That Pet 等），以 Build in Public 持续透明复盘。
+- 🧠 善用 AI 代理、自动化脚本与视觉系统，搭建个人生产力 OS，确保洞察→建模→交付链路可追踪。
+- 🤝 欢迎在 Discussions 或 Issues 留言，寻找志同道合的交易员、Maker 与内容合作伙伴。
+
+## 🧭 Narrative Modes / 人设自述
+- **版本一 · 专业逻辑 (INTJ)**  
+  我深耕交易、内容创作与 SaaS。伦敦十年求学 + 三年体制经历，让我学会用严谨数据分析驱动决策。现在我全职投入 AI 驱动的自动化工具，持续构建个人生产力系统，并以 Build in Public 在 365 天内交付 7 款数字产品。
+- **版本二 · 极简像素**  
+  我把复杂技术转译成具摄影级美学、像素风 UI 的产品。核心项目有交易复盘工具 TradeGrail 与像素趣味应用 Steal That Pet。坚持“每天一次高质量交易”，并将同样的克制和专注注入产品体验。
+- **版本三 · 故事愿景**  
+  从伦敦到广州、从体制到独立，我回归初心成为数字游民。作为 INTJ 交易员与视觉内容创作者，我用 AI 重构工作流，并计划打造 7 个覆盖交易、营销、效率的数字资产，透明分享每次迭代与挑战。
 
 ## 🧰 Tech Radar
 
@@ -33,13 +42,29 @@
   <img src="https://skillicons.dev/icons?i=git,githubactions,figma,blender,ps,ai,ae,notion,obsidian,bash&perline=7" alt="workflow stack" />
 </p>
 
+### Focus Keywords
+<p>
+  <img src="https://img.shields.io/badge/Trading-NQ%20Futures-0f172a?style=flat-square&color=0ea5e9" alt="NQ Futures" />
+  <img src="https://img.shields.io/badge/Strategy-ICT%20Methodology-0f172a?style=flat-square&color=22d3ee" alt="ICT" />
+  <img src="https://img.shields.io/badge/Product-TradeGrail-0f172a?style=flat-square&color=f97316" alt="TradeGrail" />
+  <img src="https://img.shields.io/badge/Dev-AI%20Driven%20Coding-0f172a?style=flat-square&color=a855f7" alt="AI coding" />
+  <img src="https://img.shields.io/badge/Dev-SaaS-0f172a?style=flat-square&color=6366f1" alt="SaaS" />
+  <img src="https://img.shields.io/badge/Stack-Python-0f172a?style=flat-square&color=22c55e" alt="Python" />
+  <img src="https://img.shields.io/badge/Stack-TypeScript-0f172a?style=flat-square&color=14b8a6" alt="TS" />
+  <img src="https://img.shields.io/badge/Aesthetics-Pixel%20Art-0f172a?style=flat-square&color=f472b6" alt="Pixel Art" />
+  <img src="https://img.shields.io/badge/Aesthetics-Cinematic%20Video-0f172a?style=flat-square&color=fb7185" alt="Cinematic" />
+  <img src="https://img.shields.io/badge/Vision-1%20Person%20Business-0f172a?style=flat-square&color=34d399" alt="One person business" />
+  <img src="https://img.shields.io/badge/Vision-Build%20in%20Public-0f172a?style=flat-square&color=0ea5e9" alt="Build in Public" />
+  <img src="https://img.shields.io/badge/Vision-7%20Products%2FYear-0f172a?style=flat-square&color=38bdf8" alt="7 products" />
+</p>
+
 ## 🗂 Status Board & Roadmap
 | Column | Focus |
 | --- | --- |
-| 🚀 Shipping | WebXR glasses try-on SDK、企业定制化数据大屏、AI-driven merch configurator |
-| 🔍 Researching | 无标记点人脸追踪、轻量级体感交互、Agent UI 模板 |
-| 🌱 Learning | WebGPU materials, Rive state machines, serverless streaming pipelines |
-| 🤝 Open for | 创意外包、Demo 快速共创、演讲/分享 |
+| 🚀 Shipping | TradeGrail（交易复盘 SaaS）、Steal That Pet（像素互动应用）、AI 驱动内容脚本 |
+| 🔍 Researching | 无监督交易模式分类、Agent UI 模板、交易×营销的自动化触达 |
+| 🌱 Learning | WebGPU + 数据可视化、Rive 状态机、Serverless streaming pipelines |
+| 🤝 Open for | 交易策略可视化、SaaS 共创、Build in Public 分享 |
 
 ## 📊 Dynamic Metrics
 <div align="center">
