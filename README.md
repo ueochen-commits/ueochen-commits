@@ -29,17 +29,17 @@
 
 ### Frontend & Creative Coding
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxt,astro,vite,threejs,tailwind,scss&perline=6" alt="frontend stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxt,astro,vite,threejs,tailwind,scss&perline=11" alt="frontend stack" />
 </p>
 
 ### Backend, Cloud & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,go,deno,fastapi,postgres,mongodb,redis,prisma,supabase,vercel,aws,cloudflare,docker&perline=7" alt="backend stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,go,deno,fastapi,postgres,mongodb,redis,prisma,supabase,vercel,aws,cloudflare,docker&perline=14" alt="backend stack" />
 </p>
 
 ### Workflow & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=git,githubactions,figma,blender,ps,ai,ae,notion,obsidian,bash&perline=7" alt="workflow stack" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,figma,blender,ps,ai,ae,notion,obsidian,bash&perline=10" alt="workflow stack" />
 </p>
 
 ### Focus Keywords
